@@ -20,7 +20,7 @@
     "axios": "^0.24.0",
     "cheerio": "^1.0.0-rc.10",
     "mongoose": "^6.1.4",
-    "next": "12.0.7",
+    "next": "12.1.0",
     "next-seo": "^4.28.1",
     "next-share": "^0.12.2",
     "next-transpile-modules": "^9.0.0",
